@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+  img src ="https://camo.githubusercontent.com/da6c6736366695f44a86dcb2a9fe5f54139464a16be3b451fecfd71f7265b8dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3061306331303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" align="center" alt="javascript">
+  
 
 <br/>
 <br/>
