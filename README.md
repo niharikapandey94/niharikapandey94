@@ -1,93 +1,41 @@
 <h1 align="center">Hi 👋, I'm Niharika Pandey</h1>
-<br/>
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
-</div>
-<h2>- Full Stack Web Developer skilled in Java</h2>
-<h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<h3 align="center">Passionately curious, enjoy problem solving, love travelling</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Nitya+Baranwal!;Java+Back-end+Developer...;" style="width: 100%;">
+<h3 align="center">Java Back-end Developer</h3>
+<img aling="center" width="100%" height="500"  alt = "coding" width = "500"  src = "https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikapandey94&label=Profile%20views&color=0e75b6&style=flat" alt=Niharika" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=niharikapandey94&label=Profile%20views&color=0e75b6&style=flat" alt="niharika" /> </p>
 
 
+- 🔭 I’m currently working on ** SpringBoot Applications.**
 
-👨‍💻 See my Portfolio here <a href="https://niharikapandey94.github.io/">Portfolio</a>
+- 🌱 I’m currently learning **Java Backend at Masai School.**
 
-- 📫 Reach me at niharikapandeyabc@gmail.com
+- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📄 Know more about me [Resume](https://drive.google.com/drive/folders/1PsNNGJZwSZCS8evbsrCq8TXIrpAa-5_v)
+- 💬 Ask me about **Java, Spring Boot **
 
-- ⚡ Fun fact - I love Writing 🖊️
+- 📫 How to reach me [niharikapandeyabc@gmail.com](niharikapandeyabc@gmail.com)
 
--  🌎 Let's Create something the World needs 🌎
+- 👨‍💻 All of my projects are available at [Portfolio](https://niharikapandey94.github.io/)
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1t4Y50ZKVKSQFrUJQ2y91sBCoxosW4B80/view?usp=share_link)
 
-<p> <a href="https://www.linkedin.com/in/niharika-pandey-979240a2/"
-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://niharikapandey94.github.io/" target="text-decoration:none">
-   <img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/niharika-pandey-979240a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niharika-pandey-979240a2/" height="30" width="40" /></a>
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" margine-right="30"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" margine-left="30"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" margine-left="30"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> </p>
+<div height= "50"></div>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<div align="center">
- 
- <div align="center"><h3 align="center">Frontend</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
-<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
-<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-  img src ="https://camo.githubusercontent.com/da6c6736366695f44a86dcb2a9fe5f54139464a16be3b451fecfd71f7265b8dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3061306331303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" align="center" alt="javascript">
-  
+<p align="center"><img align="center" margine-top= "100" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharikapandey94&show_icons=true&locale=en&layout=compact" alt="niharika" /></p>
 
-<br/>
-<br/>
-  
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-<br/>
- </div>
-</div>
-
-<br/>
-  
-  ##
- 
- 
- ## 📊 My Github Stats
-
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Niharika Pandey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=niharikapandey94&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<h3 align="left">Git profile Trophies:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharikapandey94" alt="niharika" /></a> </p>
 
 
-  <br/>
-  
-<p align="center">
-   <img alt="Niharika Pandey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niharikapandey94&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- </p> 
- <br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=niharikapandey94&show_icons=true&locale=en" alt="niharikapandey" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharikapandey94" alt="niharika" /></p>
