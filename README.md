@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on ** SpringBoot Applications.**
 
-- 🌱 I’m currently learning **Java Backend at Masai School.**
-
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
 - 💬 Ask me about **Java, Spring Boot **
